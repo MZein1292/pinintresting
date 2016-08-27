@@ -1,5 +1,2 @@
-# One Month Rails
-
-Pinintresting Sample Application for [*One Month Rails*](http://onemonthrails.com)
-
+Pinintresting Sample Application by One Month Rails
 
