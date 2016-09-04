@@ -12,6 +12,10 @@ gem 'turbolinks'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'masonry-rails', '~> 0.2.0'
+gem 'will_paginate', '~> 3.0.5'
+gem 'will_paginate-bootstrap'
+
+
 
 group :development, :test do
 	gem 'sqlite3'
