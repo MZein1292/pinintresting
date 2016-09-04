@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'turbolinks'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'masonry-rails', '~> 0.2.0'
 
 group :development, :test do
 	gem 'sqlite3'
